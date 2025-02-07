@@ -1,2 +1,2 @@
 # github_demo
-autur pranv chaudhari
+author pranv chaudhari
